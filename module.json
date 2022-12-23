@@ -1,0 +1,134 @@
+{
+    "name": "fotfl-campaign-module",
+    "title": "Fury of the Forge Lords Campaign Module",
+    "description": "A module containing the exported Fury of the Forge Lords Campaign Module compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "author": "Gibson1027",
+    "packs": [
+        {
+            "type": "Item",
+            "label": "Fury of the Forge Lord Crafting",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fury-of-the-forge-lord-crafting-1671834161040.db",
+            "name": "world-fury-of-the-forge-lord-crafting-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL Cooking",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-cooking-1671834161040.db",
+            "name": "world-fofl-cooking-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL Leather & Hide",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-leather-and-hide-1671834161040.db",
+            "name": "world-fofl-leather-and-hide-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL Magical - Containers",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-magical-containers-1671834161040.db",
+            "name": "world-fofl-magical-containers-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL Magical - Crystals",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-magical-crystals-1671834161040.db",
+            "name": "world-fofl-magical-crystals-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL Magical - Ink",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-magical-ink-1671834161040.db",
+            "name": "world-fofl-magical-ink-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL Magical - Essences",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-magical-essences-1671834161040.db",
+            "name": "world-fofl-magical-essences-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL Magical - Parchment",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-magical-parchment-1671834161040.db",
+            "name": "world-fofl-magical-parchment-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL Magical - Reagents",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-magical-reagents-1671834161040.db",
+            "name": "world-fofl-magical-reagents-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL Magical - Tears",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-magical-tears-1671834161040.db",
+            "name": "world-fofl-magical-tears-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL M and E - Ingots",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-m-and-e-ingots-1671834161040.db",
+            "name": "world-fofl-m-and-e-ingots-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL M and E - Ores",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-m-and-e-ores-1671834161040.db",
+            "name": "world-fofl-m-and-e-ores-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL M and E - Smelting materials",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-m-and-e-smelting-materials-1671834161040.db",
+            "name": "world-fofl-m-and-e-smelting-materials-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL Support Components",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-support-components-1671834161040.db",
+            "name": "world-fofl-support-components-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL Monster Parts",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-monster-parts-1671834161040.db",
+            "name": "world-fofl-monster-parts-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL  Tools",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-tools-1671834161040.db",
+            "name": "world-fofl-tools-1671834161040"
+        },
+        {
+            "type": "Item",
+            "label": "FoFL - Wood",
+            "module": "fotfl-campaign-module",
+            "path": "packs/world-fofl-wood-1671834161040.db",
+            "name": "world-fofl-wood-1671834161040"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+}
