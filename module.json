@@ -18,7 +18,53 @@
           "lang": "en",
           "name": "English",
           "path": "lang/en.json"
-        }],
+        },
+        {
+          "lang": "ko",
+          "name": "Korean",
+          "path": "lang/ko.json"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Português (Brasil)",
+          "path": "lang/br.json"
+        },
+        {
+          "lang": "es",
+          "name": "Spanish",
+          "path": "lang/es.json"
+        },
+        {
+          "lang": "fr",
+          "name": "French",
+          "path": "lang/fr.json"
+        },
+        {
+          "lang": "pl",
+          "name": "Polish",
+          "path": "lang/pl.json"
+        },
+        {
+          "lang": "ja",
+          "name": "日本語",
+          "path": "lang/ja.json"
+        },
+        {
+          "lang": "cn",
+          "name": "中文",
+          "path": "lang/cn.json"
+        },
+        {
+          "lang": "it",
+          "name": "italiano",
+          "path": "lang/it.json"
+        },
+        {
+          "lang": "de",
+          "name": "Deutsch",
+          "path": "lang/de.json"
+        }
+      ],
     "packs": [
         {
           
