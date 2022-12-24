@@ -78,7 +78,8 @@
             "label": "FoFL Magical - Reagents",
             "module": "fotfl-campaign-module",
             "path": "packs/world-fofl-magical-reagents-1671834161040.db",
-            "name": "world-fofl-magical-reagents-1671834161040"
+            "name": "world-fofl-magical-reagents-1671834161040",
+            "system": "dnd5e"
         },
         {
             "type": "Item",
