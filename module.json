@@ -32,14 +32,13 @@
             
         },
         {
-            
-            "label": "FoFL Cooking",
-            "module": "fotfl-campaign-module",
-            "path": "packs/world-fofl-cooking-1671834161040.db",
             "name": "world-fofl-cooking-1671834161040",
-            "entity": "Item",
+            "label": "FoFL Cooking",
             "type": "Item",
-            "system": "dnd5e"
+            "system": "dnd5e",
+            "path": "packs/world-fofl-cooking-1671834161040.db",
+            "entity": "Item",
+            "module": "fotfl-campaign-module"
             
         },
         {
