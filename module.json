@@ -14,7 +14,7 @@
             "label": "Fury of the Forge Lord Crafting",
             "module": "fotfl-campaign-module",
             "path": "packs/world-fury-of-the-forge-lord-crafting-1671834161040.db",
-            "name": "world-fury-of-the-forge-lord-crafting-1671834161040"
+            "name": "world-fury-of-the-forge-lord-crafting-1671834161040",
         },
         {
             "type": "Item",
@@ -127,6 +127,13 @@
             "module": "fotfl-campaign-module",
             "path": "packs/world-fofl-wood-1671834161040.db",
             "name": "world-fofl-wood-1671834161040"
+        },
+        {
+       "type": "Actor",
+            "label": "Support Tokens",
+            "module": "generated-module-1671846467018",
+            "path": "packs/black-books-fury-of-the-forge-lords-loot-icons-1671846467018.db",
+            "name": "black-books-fury-of-the-forge-lords-loot-icons-1671846467018"
         }
     ],
     "manifest": "https://github.com/JamesonSherman/FotFL-Campaign-Module/releases/latest/download/module.json",
